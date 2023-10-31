@@ -1,0 +1,25 @@
+div div {
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.orangef{
+    background-color: orangered;
+}
+
+.black{
+    background-color: black;
+}
+
+.green{
+    background-color: green;
+}
+
+body :nth-child(n){
+    display: flex;
+}
